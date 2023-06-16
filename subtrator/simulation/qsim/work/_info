@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Documents\subtrator\simulation\qsim
+vsubtrator
+Z1 I0KPA7]Q[4VcV1K5gz5dQ?3
+Z2 VfYIoZ@Il_mPe<1e4EmHUH3
+Z3 dC:\Users\Aluno\Documents\subtrator\simulation\qsim
+Z4 w1686762059
+Z5 8subtrator.vo
+Z6 Fsubtrator.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 m[O35I34iN4h[^P;[[>If1
+!s85 0
+Z10 !s108 1686762062.582000
+Z11 !s107 subtrator.vo|
+Z12 !s90 -work|work|subtrator.vo|
+!s101 -O0
+vsubtrator_vlg_check_tst
+!i10b 1
+!s100 de]E;N=CoNNON4M=mFef53
+I9elb50?3^g6hcAi5j>kbg0
+V^N:le5OC_VzilNa9b^gEc3
+R3
+Z13 w1686762057
+Z14 8subtrator.vt
+Z15 Fsubtrator.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1686762062.825000
+Z17 !s107 subtrator.vt|
+Z18 !s90 -work|work|subtrator.vt|
+!s101 -O0
+R8
+vsubtrator_vlg_sample_tst
+!i10b 1
+!s100 AiVI83E[hH>N`<Pg9WL8d3
+If=a;85fYkgZ5i_31VI7@_1
+Vj_RaN4A7<@[B?Lhh8[jUX0
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vsubtrator_vlg_vec_tst
+!i10b 1
+!s100 0T[=UNDYggHAmX99@;Pk>1
+IDBOM9Fo=:]nkc6GQhmR@03
+VZEcK1_Qcd2hN?lI1F5^>^2
+R3
+R13
+R14
+R15
+L0 156
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

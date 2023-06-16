@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Aluno/Documents/subtrator/subtrator.vhd
+source_file = 1, C:/Users/Aluno/Documents/subtrator/Waveform.vwf
+source_file = 1, C:/Users/Aluno/Documents/subtrator/db/subtrator.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = subtrator
+instance = comp, \a~I , a, subtrator, 1
+instance = comp, \b~I , b, subtrator, 1
+instance = comp, \Te~I , Te, subtrator, 1
+instance = comp, \s~0 , s~0, subtrator, 1
+instance = comp, \s~I , s, subtrator, 1
